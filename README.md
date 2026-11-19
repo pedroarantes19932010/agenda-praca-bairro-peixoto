@@ -38,6 +38,7 @@ A página é estática; não é necessário instalar pacotes nem iniciar um serv
 - Os horários de futsal e pintura são propostas de organização, não horários oficialmente confirmados.
 - A referência a Juliana Alencar como responsável pela pintura também precisa de confirmação antes de divulgação oficial.
 - O formulário usa `mailto:`: abre o aplicativo de e-mail da pessoa, não envia automaticamente e não armazena respostas.
+- O código publicado usa `admin@example.com` como endereço de demonstração. Substitua-o pelo contato administrativo autorizado antes de usar a versão local.
 - Cadastro, autenticação e publicação de comentários ainda não estão integrados. A área de comentários é apenas uma prévia visual.
 
 Essas limitações são mantidas explícitas para não apresentar informações propostas como se fossem confirmações da comunidade.
@@ -61,6 +62,10 @@ Essas limitações são mantidas explícitas para não apresentar informações 
 ## Finalidade acadêmica
 
 O protótipo demonstra a aplicação de conceitos de levantamento de necessidades, organização de conteúdo, interface web e planejamento incremental em uma proposta de extensão voltada à divulgação de atividades comunitárias.
+
+## Project summary (English)
+
+A static community calendar prototype for activities at Praça do Bairro Peixoto in Copacabana, Rio de Janeiro. Built with plain HTML, CSS, and JavaScript. It demonstrates activity discovery, a proposed schedule, and a contact form concept. Activity details and proposed times still require validation; form submission, authentication, and comments are not backed by a server.
 
 ---
 
